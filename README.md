@@ -37,6 +37,20 @@ python File_server.py
 - qrcode
 - Local network connection
 
+  ## How to Install
+
+1. Run `setup.bat` to install all dependencies
+2. Run `start_server.bat` to start server
+3. Scan generated QR code
+
+## How to Use
+
+1. Run `start_server.bat` to start server
+2. Note the **Access Code** generated in terminal
+3. Scan generated QR code
+4. Enter access code on login screen
+5. Start transfer failed after confirmation
+
 ## Security
 - Random access code generated each session
 - Session-based authentication
