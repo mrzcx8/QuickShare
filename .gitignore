@@ -1,0 +1,18 @@
+# Folders
+__pycache__/
+uploads/
+venv/
+.env/
+
+# Files
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+.env
+server_qr.png
+
+# OS specific
+.DS_Store
+Thumbs.db
